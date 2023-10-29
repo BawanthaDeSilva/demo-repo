@@ -4,4 +4,8 @@ Some description!
 
 ## Subheader 
 
-Bawantha MAyuranga De Silvagi
+Bawantha Mayuranga De Silva
+
+## Local Development
+
+!. Opne index.html in your browser
